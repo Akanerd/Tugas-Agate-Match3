@@ -5,10 +5,7 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 0
-    path: 
-    guid: 00000000000000000000000000000000
   - enabled: 1
-    path: Assets/Scenes/Gameplay.unity
-    guid: 159df266509f52b4b8938318b46bd093
+    path: Assets/Scenes/belajar-match-3.unity
+    guid: 792b8e83b33159f4799c4cc10d2022c4
   m_configObjects: {}
